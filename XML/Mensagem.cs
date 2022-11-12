@@ -12,7 +12,7 @@ namespace XML
 
     public class Mensagem 
     {
-        [XmlElement("cabecalho")]
+        [XmlElement("cabecalhoooo")]
         public Cabecalho Cabecalho { get; set; }
 
         [XmlElement("corpoMensagem")]
