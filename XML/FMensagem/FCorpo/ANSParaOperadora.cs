@@ -2,5 +2,5 @@
 
 public class ANSParaOperadora 
 {
-    public int ABI { get; set; } //porque INT?
+    public int ABI { get; set; } 
 }

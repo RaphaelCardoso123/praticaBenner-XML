@@ -12,6 +12,7 @@ namespace XML
 
     public class Mensagem 
     {
+
         [XmlElement("cabecalho")]
         public Cabecalho Cabecalho { get; set; }
 
