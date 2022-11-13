@@ -1,8 +1,8 @@
-﻿using System;
+﻿namespace XML.FMensagem.FCorpo.ANSParaOperadora.IdentificacaoOperadora;
 
-public class Class1
+public class IdentificacaoOperadora
 {
-	public Class1()
-	{
-	}
+    public int RegistroANS { get; set; }
+    public string RazaoSOcial { get; set; }
+    public int CNPJ { get; set; }
 }
