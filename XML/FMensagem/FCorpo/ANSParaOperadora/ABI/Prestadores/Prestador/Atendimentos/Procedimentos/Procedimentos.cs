@@ -1,4 +1,4 @@
-﻿namespace XML.FMensagem.FCorpo.ANSParaOperadora.Prestadores.Prestador.Atendimento.Procedimento;
+﻿namespace XML.FMensagem.FCorpo.ANSParaOperadora.Prestadores.Prestador.Atendimento.Procedimentos;
 
 public class Procedimentos
 {

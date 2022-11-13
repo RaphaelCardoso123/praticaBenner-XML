@@ -1,8 +1,10 @@
-﻿using System;
+﻿namespace XML.FMensagem.FCorpo.ANSParaOperadora.Prestadores.Prestador.Atendimento.AtendimentoIdentificado;
 
-public class Class1
+public class AtendimentoIdentificado
 {
-	public Class1()
-	{
-	}
+	public string Tipo { get; set; }
+    public int Numero { get; set; }
+    public int DataInicioAtendimento { get; set; }
+    public int DataFimAtendimento { get; set; }
+    public string CaraterAtendimento { get; set; }
 }
