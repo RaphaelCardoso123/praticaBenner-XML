@@ -16,7 +16,7 @@ namespace XML
         public Cabecalho Cabecalho { get; set; }
 
         [XmlElement("corpoMensagem")]
-        public int Corpo { get; set; }
+        public Corpo Corpo { get; set; }
 
         [XmlElement("epilogo")]
         public Epilogo Epilogo { get; set; }
