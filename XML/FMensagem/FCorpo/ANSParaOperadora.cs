@@ -1,4 +1,4 @@
-﻿namespace XML.Fmensagem.FCorpo;
+﻿namespace XML.Fmensagem.FCorpo.ANSParaOperadora;
 
 public class ANSParaOperadora 
 {
